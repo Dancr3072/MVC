@@ -1,4 +1,5 @@
 <h1>Bienvenido a mi Web</h1>
+<<<<<<< HEAD
 <?php
 
 require_once './controller/UsuarioController.php';
@@ -24,3 +25,5 @@ if (isset($nombre_controlador) && class_exists($nombre_controlador)) {
 //$controlador -> mostrarTodos();
 
 //$controlador -> crear();
+=======
+>>>>>>> 588c2996ff1b218a561817145efd25c2e5f7dc84

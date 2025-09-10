@@ -38,9 +38,12 @@ class Usuario{
     function setpassword(){
         $this->password = $password;
     }
+<<<<<<< HEAD
 
     public function conseguirTodos(){
         echo "IMPRIMIENDO TODO LOS USUARIOS ACTIVOS...";
     }
+=======
+>>>>>>> 588c2996ff1b218a561817145efd25c2e5f7dc84
 }
 
